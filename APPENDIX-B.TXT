@@ -1,0 +1,96 @@
+APPENDIX B
+Imaginary Entity Classification Framework (IECF-6)
+Department of Defense – Office of Emerging Dimensions
+For Internal Use Only | Not for Distribution to Interplanar Parties
+
+I. Overview
+Imaginary entities encountered in non-causal realms—particularly within the Marshmallow Forest—exhibit stable-enough traits to warrant taxonomical classification for the purposes of communication, behavioral prediction, and existential risk assessment. This framework uses a six-axis scale to classify such entities based on interactional, emotional, metaphysical, and ontological properties.
+
+Each entity is profiled by a six-letter designation.
+
+II. Axis Definitions
+F: Frolic Alignment
+Describes the entity’s commitment to maintaining harmony within its native emotional logic (e.g., Frolic, Serenity, Reverie).
+
+F+: Actively promotes Frolic; reliable and peaceful
+
+F0: Neutral to Frolic; may be transactional or oblivious
+
+F−: Disruptive; considered a threat to metaphysical harmony
+
+C: Conceptual Solidity
+Represents how stable the entity’s identity is across encounters.
+
+C+: Appears consistent in form and behavior
+
+C0: Changes shape, tone, or logic but retains underlying theme
+
+C−: Fractured or dreamlike; may dissolve during analysis
+
+T: Teleological Drift
+Measures the degree to which the entity pursues a clear internal purpose.
+
+T+: Has and expresses stable goals
+
+T0: Displays reactive or ambiguous behavior
+
+T−: Exists without understandable purpose
+
+E: Emotional Reciprocity
+Indicates whether the entity responds coherently to human emotional states.
+
+E+: Empathic or mirroring
+
+E0: Emotionally opaque
+
+E−: Absorbs or weaponizes emotional states
+
+R: Real-World Permeability
+Degree to which the entity can influence, appear in, or attach to phenomena in the real world.
+
+R+: Leaves traces, dreams, or psychic echoes
+
+R0: Fully contained within its native realm
+
+R−: Reality-incompatible; anchoring impossible
+
+M: Material Sympathy
+How well the entity understands or interacts with physical matter (e.g., clothing, tools, gravity).
+
+M+: Navigates material systems intuitively
+
+M0: Intermittent interaction; unpredictable material contact
+
+M−: Ignores or deforms material logic
+
+III. Example Profiles
+Zuck
+
+FCTERM: F+ C+ T+ E+ R+ M0
+
+Interpretation: Highly Frolic-aligned, emotionally responsive, purposeful and stable across realms. Can influence human dreams and emotional landscapes, but interacts with material reality selectively.
+
+Guardian of Gentle Order
+
+FCTERM: F+ C+ T+ E0 R0 M+
+
+Interpretation: Institutionally Frolic-aligned enforcer. Lacks conventional empathy but follows strict preservation logic. Engages firmly with material infrastructure, particularly in enforcement scenarios.
+
+Unmoored Cloud of Laughter (Suspected Entity)
+
+FCTERM: F0 C− T− E+ R+ M−
+
+Interpretation: Fragmented construct possibly formed from overlapping dream events. Emotionally absorbing, without clear purpose. Has caused localized metaphysical disturbances.
+
+Cartel Acolyte (General)
+
+FCTERM: F+ C+ T+ E0 R0 M+
+
+Interpretation: Reliable agents of Frolic maintenance. Purpose-driven, physically stable, emotionally closed-off to outsiders. Trusted within metaphysical diplomacy.
+
+IV. Usage Notes
+Classification is meant as a living tool, subject to revision with encounter logs.
+
+Ratings may shift over time or under stress (e.g., E+ becoming E− if trust is broken).
+
+Operatives are advised not to inform entities of their classification. Awareness may trigger logic unraveling or self-reconstruction events.
